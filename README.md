@@ -8,8 +8,8 @@ The package [xAct](http://xact.es/) is necessary to run the codes. It is a great
 To open any of these notebooks, click on "View Raw" file, select all text (Ctrl A), copy it (Ctrl C), paste it (Ctrl V) into an empty Mathematica page and select "Yes" to interpreting the text.
 
 ## Content
-* [Materialize.css](http://materializecss.com) - Framework CSS (front-end)
-* [Atom](https://atom.io/) - Editeur de textes
+* [Irreducible Decompositions](http://materializecss.com) - This notebook allows you to compute any cumbersome product of torsion, contorsion, non-metricity and disformation. We apply it to compute the general scalar curvature in the presence of torsion and non-metricity. We also check 
+* [Solving Equations of motion](https://atom.io/) - 
 * 
 ## Authors
 * Claire Rigouzzo

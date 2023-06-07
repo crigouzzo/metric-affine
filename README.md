@@ -1,5 +1,5 @@
 # Metric Affine
-A collection of Mathematica notebooks to study metric affine theories of gravity. This is a companion reposit to the paper [23??.????]()
+A collection of Mathematica notebooks to study metric affine theories of gravity. This is a companion reposit to the paper [2306.????]()
 
 ## Package to install
 The package [xAct](http://xact.es/) is necessary to run the codes. It is a great tool to do abstract index computations, linearized calculations etc. In our case, we can use to perform the decomposition of torsion and non-metricity into irreducible components, and also find the solutions of equations of motions for them.

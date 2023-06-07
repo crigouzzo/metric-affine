@@ -9,7 +9,7 @@ To open any of these notebooks, click on "View Raw" file, select all text (Ctrl 
 
 ## Content
 * [Irreducible Decompositions](https://github.com/crigouzzo/metric-affine/blob/main/Decomposition_into_irrep_github.nb) - This notebook allows you to compute any cumbersome product of torsion, contorsion, non-metricity and disformation. We apply it to compute the general scalar curvature in the presence of torsion and non-metricity. We also check equations from our previous paper [2204.03003](https://arxiv.org/pdf/2204.03003.pdf).
-* [Solving Equations of motion](https://github.com/crigouzzo/metric-affine/blob/main/Solution_EOM_github.nb) - This notebook gives the solution of the Equation of Motions for torsion and non-metricity.
+* [Deriving the Effective Action](https://github.com/crigouzzo/metric-affine/blob/main/Effective_Action.nb) - This notebook gives the solution of the Equation of Motions for torsion and non-metricity, as well as the effective action. From there, we can find the effective interaction terms induced by the presence of torsion and non-metricity.
 
 ## Authors
 * Claire Rigouzzo

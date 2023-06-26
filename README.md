@@ -1,5 +1,5 @@
 # Metric Affine
-Two Mathematica notebooks to study metric-affine theories of gravity. This is a companion repository to the paper [2306.????]()
+Two Mathematica notebooks to study metric-affine theories of gravity. This is a companion repository to the paper [2306.13134](https://arxiv.org/abs/2306.13134)
 
 ## Package to install
 The package [xAct](http://xact.es/) is necessary to run the codes.
